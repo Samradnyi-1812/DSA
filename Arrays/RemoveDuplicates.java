@@ -1,5 +1,5 @@
 // to remove duplicates in-place from a sorted array
-//*Placement important*/
+//*Placement Important*/
 //*Two- pointer concept*/
 import java.util.Scanner;
 
