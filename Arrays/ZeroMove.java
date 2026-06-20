@@ -43,3 +43,6 @@ public class ZeroMove {
         sc.close();
     }
 }
+
+//Time Complexity: O(2N)
+//Space Complexity: O(N)
