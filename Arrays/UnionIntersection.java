@@ -79,13 +79,12 @@ public class UnionIntersection {
         j++;
     }
 
-    //print the union list
-    System.out.print("Union: ");
-        for (int num : Union) {
-            System.out.print(num + " ");
-        }
-    sc.close();
-
+       //print the union list
+       System.out.print("Union: ");
+            for (int num : Union) {
+                System.out.print(num + " ");
+          }
+      sc.close();
     }
 }
 
